@@ -1,2 +1,2 @@
 # Proyecto-Parques-Recreativos
-Aalisis Parque Recreativos
+Analisis Parque Recreativos
